@@ -1,0 +1,14 @@
+layout_spectrum: 0.9607948
+typography_spectrum: 0.1090225
+color:
+  saturation: 0.9804232
+  lightness: 0.9923008
+  brandStrength: 0.9973147
+  brandColors:
+    - '#FDFEF8'
+    - '#54E1F9'
+    - '#BEC4B5'
+    - '#42324C'
+    - '#888891'
+  rhythmicContrast: 0.3248652
+name: Aberick Stone

@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-04-12T14:39:19.157Z'
+datePublished: '2016-04-13T01:09:52.611Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: One Hour Sketch
-dateModified: '2016-04-12T14:38:52.149Z'
+dateModified: '2016-04-12T14:39:29.832Z'
 sourcePath: _posts/2016-04-12-one-hour-sketch.md
 published: true
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
